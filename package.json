@@ -1,0 +1,25 @@
+{
+  "name": "reactive",
+  "version": "0.1.0",
+  "description": "A small library for making Javascript entities reactive as used in Single Page Applications  with Proxy and Object accessors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andersclark/reactive.git"
+  },
+  "keywords": [
+    "javascript",
+    "reactive",
+    "ref",
+    "proxy"
+  ],
+  "author": "Anders Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andersclark/reactive/issues"
+  },
+  "homepage": "https://github.com/Andersclark/reactive#readme"
+}
