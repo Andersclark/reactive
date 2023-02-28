@@ -1,0 +1,13 @@
+# DEPENDENCIES
+node_modules
+
+# BUILD-OUTPUT
+dist
+public
+
+# LOCAL ENV
+*.local
+
+# EDITORS
+.vscode
+.idea
