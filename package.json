@@ -4,7 +4,7 @@
   "description": "A small library for making Javascript entities reactive as used in Single Page Applications  with Proxy and Object accessors",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/Andersclark/reactive/issues"
   },
-  "homepage": "https://github.com/Andersclark/reactive#readme"
+  "homepage": "https://github.com/Andersclark/reactive#readme",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.2",
+    "typescript": "^4.9.3"
+  }
 }
